@@ -13,9 +13,9 @@ The following methods are avaliable:
 
 ### Further reading
 
-* **User Guide**
-* Script example 1 (simulation of a shear building identification)
-* Script example 2 (time data from iNVH app)
+* [**User Guide**](https://nbviewer.jupyter.org/github/MatheusCarini/CESSIPy/blob/main/English/User_Guide.ipynb)
+* [Script example 1 (simulation of a shear building identification)](https://github.com/MatheusCarini/CESSIPy/blob/main/English/Example01_Shear_Building.py)
+* [Script example 2 (time data from iNVH app)](https://github.com/MatheusCarini/CESSIPy/blob/main/English/Example02_Smartphone.py)
 
 ## Um módulo de código aberto em Python para Identificação Modal Estocástica de Estruturas
 
